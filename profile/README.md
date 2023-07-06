@@ -6,4 +6,6 @@ GoblGobl is collection of systems focused on specific behavior. Every GoblGobl s
 
 [Authen](https://github.com/goblgobl/authen) is an authentication enhancement system for adding features, such as 2FA, to an existing authentication flow. You can learn more from the [documentation](https://www.goblgobl.com/docs/authen/)
 
+[duckdb-proxy](https://github.com/goblgobl/duckdb-proxy) is an HTTP proxy for DuckdB. You can learn more from the [documentation](https://www.goblgobl.com/docs/duckdb-proxy/)
+
 [Sqlkite](https://github.com/sqlkite/sqlkite) is an HTTP API for building application backed by Sqlite.
