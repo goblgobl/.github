@@ -1,9 +1,9 @@
 ### Hi.
 
-GoblGobl is collection of systems focused on specific behavior. Every GoblGobl system is designed to be easy to use, reliable and performant. 
 
-[Assets](https://github.com/goblgobl/assets) is an asset (css,js,font/image) proxy server capable of producing thumbnails with a focus on performance. You can learn more from the [documentation](https://www.goblgobl.com/docs/assets/)
+I'm currently working on a variety of Zig projects:
+- [Assets](https://github.com/goblgobl/assets) - static asset proxy server with thumbnail generation
+- [Authen](https://github.com/goblgobl/authen) - authentication enhancement system
+- [duckdb-proxy](https://github.com/goblgobl/duckdb-proxy) - HTTP proxy for DuckdB.
 
-[Authen](https://github.com/goblgobl/authen) is an authentication enhancement system for adding features, such as 2FA, to an existing authentication flow. You can learn more from the [documentation](https://www.goblgobl.com/docs/authen/)
-
-[duckdb-proxy](https://github.com/goblgobl/duckdb-proxy) is an HTTP proxy for DuckdB. You can learn more from the [documentation](https://www.goblgobl.com/docs/duckdb-proxy/)
+Visit <https://www.goblgobl.com> to learn more.
